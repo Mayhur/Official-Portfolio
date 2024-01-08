@@ -1,0 +1,178 @@
+.linkk{margin-right:300px;
+    color:white
+    }  
+    body{background: black;
+    }
+    .linkk a{color:white;
+    font-size:20px;    }
+    .Contact a{color:white;
+        font-size:20px;  
+    }
+    .Brand{color:white;
+    font-size:34px
+    }
+    .Pink{color:#f9004d}
+    .Brand:hover{color:white}
+    .Contact a:hover{color:#f9004d}
+    .linkk a:hover{color:#f9004d}
+    .button{color:white;
+    border:1px solid white;
+margin-right:50px
+}
+    .button:hover{color:white;
+    background:#d20546;
+    border:none;
+    transition-duration: 0.7s;
+    }
+    .Icon{color:white;
+    font-size:30px
+    }
+    
+
+    body{color:white}
+    .Name{font-size:60px;
+        animation-name: Name;
+        animation-duration: 1s;
+        animation-timing-function: ease-in-out;
+        animation-delay: 0.3s;
+    }
+    .Hello{font-size:30px;
+    animation-name: Hello;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out;
+
+    }
+    .Web{font-size:30px;
+        animation-name: Web;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out;
+    animation-delay:0.4s
+    }
+    .button2{color:white;
+        border:1px solid white;
+    margin-right:50px;
+    animation-name: Button2;
+            animation-duration: 1s;
+            animation-timing-function: ease-in-out;
+
+    }
+        .button2:hover{color:white;
+        background:#d20546;
+        border:none;
+        transition-duration: 0.7s;}
+        .About{font-size:60px;
+            animation-name: About;
+            animation-duration: 0.7s;
+            animation-timing-function: ease-in-out;}
+         
+.md{animation-name: Md;
+    animation-duration: 1s;
+    animation-timing-function: ease-in-out;}
+
+@keyframes Hello{
+    0%{margin-left:-30px;
+    opacity:1%
+    }
+   
+}
+@keyframes Name{
+0%{margin-left:-30px;
+opacity:1%
+}
+}
+@keyframes Web{
+    0%{margin-left:-30px;
+    opacity:1%
+    }
+    }
+    @keyframes Button2{
+        0%{margin-left:-30px;
+        opacity:1%
+        }
+        }
+        @keyframes Md{
+            0%{margin-top:-30px;
+            opacity:1%
+            }
+            }
+            .What{font-size:50px}
+            .card{background:rgb(29, 27, 27)}
+            .Code{color:#d20546;
+            font-size:40px}
+            .Develop{font-size:30px}
+            @media (max-width: 768px) {
+                .button{width:110px}
+                .button2{margin-left:100px}
+                
+              }
+              @media only screen and (max-width: 600px) {
+                  .Develop{font-size: 20px;}
+                  .Name{font-size:50px}
+                  .About{font-size:50px}
+                  .What{font-size:50px}
+                  .margin{margin-top:15px}
+                  .Touch{font-size:50px}
+                  body{overflow-x: hidden;}
+                }
+                .Touch{font-size:50px}
+                .Facebook {font-size:35px;
+             
+                }
+                .Insta{font-size:35px}
+                .Link{font-size:35px}
+                .socials a{letter-spacing: 10px;
+                    text-decoration: none;
+                    color:white;
+                    transition:ease-in-out;
+                    transition-duration: 1s;
+                }
+                .socials a:hover{
+                    color:#d20546;
+                    text-shadow:0 0 0 5 white;
+                }
+                .Leave{font-size:40px;}
+               textarea{background:transparent;
+            color:white;
+           height:50px;
+           width:100%;
+           border:1px solid white
+            }
+            .Are{
+        width:100%;
+        height:100px;
+        border:1px solid #d20546;
+        transition-duration: 3s;
+        }
+        .FullName{width:100%;
+        background:transparent;
+        border:1px solid white;
+        color:white;
+        height:50px
+        }
+        .Full{width:100%;
+            border:1px solid #d20546;
+            transition-duration: 3s;}
+            .Submit{color:white;
+            background:transparent;
+            border:1px solid white
+            }
+            .Hover{ transition:ease-in-out;
+                transition-duration: 1s;
+            color:#d20546;
+            }
+            .Submit{transition-duration: 1s;
+            transition-timing-function: ease-in-out;
+            }
+            .Submit:hover{background:#d20546;
+            color:white;
+            border:none
+            }
+       
+           body{overflow-x: hidden;}
+           /* @media only screen and (min-width: 600px) {
+            .Graphics{margin-top:12px}
+            .Typist{margin-top:12px}
+          }
+          @media only screen and (min-width: 768px) {
+            .Graphics{height:300px}
+          } */
